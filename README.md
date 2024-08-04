@@ -12,7 +12,7 @@ I'm Hadise 👩‍💻
 Here are some ideas to get you started:-->
 ![hadiseShaaban's Stats](https://github-readme-stats.vercel.app/api?username=hadiseShaaban&theme=outrun&show_icons=true&hide_border=true&count_private=true)
 <br>
-![hadiseShaaban's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hadiseShaaban&theme=outrun&show_icons=true&hide_border=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadiseShaaban&size_weight=0.5&count_weight=0.5)
 <br>
 ---
 [![](https://visitcount.itsvg.in/api?id=hadiseShaaban&label=Profile%20Views&color=11&icon=0&pretty=true)](https://visitcount.itsvg.in)
