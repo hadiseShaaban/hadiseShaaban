@@ -5,7 +5,18 @@ I'm Hadise 👩‍💻
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/hadiseh-shaaban-a42a95269/)
 
 ## 💻 Technology Stack:
-![Java](https://img.shields.io/badge/Java-%2302569B.svg?style=for-the-badge&logo=Java&logoColor=white)
+![Java]
+- **Languages**: Java  
+- **Frameworks & Tools**: Spring Boot, Web Services, Servlet, Thymeleaf  
+- **Software Architecture**: Layered Architecture, Microservices, Clean Architecture  
+- **Databases**: Oracle, SQL, Redis, H2  
+- **Persistence**: JPA (Hibernate)  
+- **Messaging**: Kafka  
+- **API Documentation**: Swagger / OpenAPI  
+- **CI/CD**: Jenkins, Docker  
+- **Testing**: Unit Tests, Integration Tests, Cucumber (BDD)
+
+(https://img.shields.io/badge/Java-%2302569B.svg?style=for-the-badge&logo=Java&logoColor=white)
 
 <!--- **sadjadtalakoob74/sadjadtalakoob74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
