@@ -6,6 +6,8 @@ I'm Hadise 👩‍💻
 
 ## 💻 Technology Stack:
 ![Java]
+(https://img.shields.io/badge/Java-%2302569B.svg?style=for-the-badge&logo=Java&logoColor=white)
+
 - **Languages**: Java  
 - **Frameworks & Tools**: Spring Boot, Web Services, Servlet, Thymeleaf  
 - **Software Architecture**: Layered Architecture, Microservices, Clean Architecture  
@@ -15,8 +17,6 @@ I'm Hadise 👩‍💻
 - **API Documentation**: Swagger / OpenAPI  
 - **CI/CD**: Jenkins, Docker  
 - **Testing**: Unit Tests, Integration Tests, Cucumber (BDD)
-
-(https://img.shields.io/badge/Java-%2302569B.svg?style=for-the-badge&logo=Java&logoColor=white)
 
 <!--- **sadjadtalakoob74/sadjadtalakoob74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
