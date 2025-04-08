@@ -3,7 +3,9 @@ I'm Hadise 👩‍💻
 
 ## 📫 How to reach me:
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/hadiseh-shaaban-a42a95269/)
+
 📧 Email: [hadise.shaaban@gmail.com](mailto:hadise.shaaban@gmail.com)
+
 💬 Telegram: [@hadiseShaaban](https://t.me/hadiseShaaban)
 
 
